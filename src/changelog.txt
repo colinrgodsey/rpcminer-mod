@@ -1,0 +1,6 @@
+Changes after 0.1.5:
+--------------------
+Provided by Ang3lus
+- Little improvements in kernels
+- Bugfix for workrefreshms, first work is get after this time, so when set to
+  high value, You must wait for a long time.
